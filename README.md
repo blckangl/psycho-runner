@@ -7,5 +7,5 @@ clone the project and open it with unity
 
 ### Prerequisites
 
-Unity 5.0
+Unity 5
 
